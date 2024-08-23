@@ -40,7 +40,7 @@ The project uses the following dependencies:
    spring.datasource.username=your-username
    spring.datasource.password=your-password
 
-## API End point  :    localhost:8081/search(post)
+## API End point  :    localhost:8081/search.          (post)
 
 ## Database Schema
  screenshot of the database included
