@@ -28,10 +28,10 @@ The project uses the following dependencies:
 
 ### Steps to Run the Project
 1. **Clone the Repository**
-   Copy code
+   https://github.com/jayalloyd/Search-Page-BackEnd
    ```
 2. **Navigate to the Project
-   ```
+
 3. **Set Up the Database**
    - Create a MySQL database.
    - Update the `application.properties` file with your MySQL credentials.
@@ -46,7 +46,7 @@ The project uses the following dependencies:
  screenshot of the database included
 
 ## Output Screenshots
-Included screenshots of the application's output .
+screenshot of the  output  included.
 
 ## Contributing
 Validation and security features can be added
