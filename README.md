@@ -46,7 +46,7 @@ The project uses the following dependencies:
  screenshot of the database included
 
 ## Output Screenshots
-Included screenshots of the application's output .
+screenshot of the  output  included.
 
 ## Contributing
 Validation and security features can be added
