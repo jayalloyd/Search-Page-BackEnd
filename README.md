@@ -18,7 +18,7 @@ The project uses the following dependencies:
 - **Lombok**: To reduce boilerplate code by using annotations.
 - **Spring Dev Tools**: For developer tools that enhance development experience, such as live reload.
 - **MySQL Connector**: For connecting the application to the MySQL database.
-- **Swagger-open API : for implemeting Swagger Rest API documentation
+- Swagger-open API : for implemeting Swagger Rest API documentation
 
 ## Setup and Installation
 
