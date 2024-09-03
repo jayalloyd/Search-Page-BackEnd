@@ -9,7 +9,7 @@ Search a page with certain criteria such as location, manufacturing process.
 ## Technologies Used
 - **IDE**: IntelliJ IDEA
 - **Database**: MySQL
-- **API Testing**: Postman
+- **API Testing**: Swagger UI
 
 ## Dependencies
 The project uses the following dependencies:
@@ -18,6 +18,7 @@ The project uses the following dependencies:
 - **Lombok**: To reduce boilerplate code by using annotations.
 - **Spring Dev Tools**: For developer tools that enhance development experience, such as live reload.
 - **MySQL Connector**: For connecting the application to the MySQL database.
+- Swagger-open API : for implemeting Swagger Rest API documentation
 
 ## Setup and Installation
 
@@ -41,7 +42,7 @@ The project uses the following dependencies:
    spring.datasource.username=your-username
    spring.datasource.password=your-password
 
-## API End point  :    localhost:8081/search.          (post)
+## API End point  :    http://localhost:8080/swagger-ui/index.html#/
 
 ## Database Schema
  screenshot of the database included
