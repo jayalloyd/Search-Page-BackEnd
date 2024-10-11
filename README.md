@@ -56,6 +56,6 @@ Validation and security features can be added
 ## License.                                Apache 2.0
 
 ## Contact
-jayaranilloyd1983@gmail.com
+github:jayalloyd
 
 ---
